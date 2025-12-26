@@ -1,2 +1,2 @@
-# This is the repo where you can find the solutions for the leetcode problems
+# This repo helps you in your DSA journey
 # WORK IN PROGRESS !!
