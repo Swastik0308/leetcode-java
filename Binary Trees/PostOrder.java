@@ -1,3 +1,5 @@
+//Traversing direction => left subtree -> right subtree -> root
+
 public class PostOrder {
     static class Node { // TC O(n)
         int data;
