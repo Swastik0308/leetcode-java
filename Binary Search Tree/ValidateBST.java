@@ -1,6 +1,7 @@
 /*
  * VALIDATE A BINARY SEARCH TREE
  *
+ * Related Question: https://leetcode.com/problems/validate-binary-search-tree/
  * A BST must satisfy:
  * For every node:
  *    min < node.data < max
